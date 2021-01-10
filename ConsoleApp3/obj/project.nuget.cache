@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "o5tLRbnq4E9BmRRI2zB3ixfFvVCXes49+YmBYZcrWY/qw8LjyJ4fnkLmTgD/dje8kn+rfRdO2FF3ewm4IpRPVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Pewkers\\source\\repos\\ConsoleApp3\\ConsoleApp3\\ConsoleApp3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pewkers\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
